@@ -1,7 +1,8 @@
-# Crome_Ignition_Cut
+# Crome Ignition Cut Tool 
+
 Crome Ignition Cut Tool will add Ignition Cut script to your Crome P28, P30, P72, Gold Binary (.bin)
 
-# How to use :
+# How to use the Tool:
 
 1. Select your Crome .bin
 
