@@ -1,0 +1,9 @@
+c:\users\boule\documents\visual studio 2015\Projects\CromeIgnitionCut\CromeIgnitionCut\bin\Debug\CromeIgnitionCut.exe.config
+c:\users\boule\documents\visual studio 2015\Projects\CromeIgnitionCut\CromeIgnitionCut\bin\Debug\CromeIgnitionCut.exe
+c:\users\boule\documents\visual studio 2015\Projects\CromeIgnitionCut\CromeIgnitionCut\bin\Debug\CromeIgnitionCut.pdb
+c:\users\boule\documents\visual studio 2015\Projects\CromeIgnitionCut\CromeIgnitionCut\obj\Debug\CromeIgnitionCut.csprojResolveAssemblyReference.cache
+c:\users\boule\documents\visual studio 2015\Projects\CromeIgnitionCut\CromeIgnitionCut\obj\Debug\CromeIgnitionCut.Form1.resources
+c:\users\boule\documents\visual studio 2015\Projects\CromeIgnitionCut\CromeIgnitionCut\obj\Debug\CromeIgnitionCut.Properties.Resources.resources
+c:\users\boule\documents\visual studio 2015\Projects\CromeIgnitionCut\CromeIgnitionCut\obj\Debug\CromeIgnitionCut.csproj.GenerateResource.Cache
+c:\users\boule\documents\visual studio 2015\Projects\CromeIgnitionCut\CromeIgnitionCut\obj\Debug\CromeIgnitionCut.exe
+c:\users\boule\documents\visual studio 2015\Projects\CromeIgnitionCut\CromeIgnitionCut\obj\Debug\CromeIgnitionCut.pdb
